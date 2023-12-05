@@ -1,13 +1,14 @@
 export const config = {
     logoCount: 5,
     firebaseConfig: {
-        apiKey: "Your Firbase API Key",
-        authDomain: "Your Firbase authDomain",
-        projectId: "Your Firbase projectId",
-        storageBucket: "Your Firbase storageBucket",
-        messagingSenderId: "Your Firbase messagingSenderId",
-        appId: "Your Firbase appId",
-        measurementId: "Your Firbase measurementId"
+        
+  apiKey: "AIzaSyDvumlFLKCkndSrE9H5nKcL4LjFydnZwhk",
+  authDomain: "xtreaming-3c40c.firebaseapp.com",
+  projectId: "xtreaming-3c40c",
+  storageBucket: "xtreaming-3c40c.appspot.com",
+  messagingSenderId: "469002802427",
+  appId: "1:469002802427:web:7dc4cddb53b1a42a678c5e",
+  measurementId: "G-Y5TCQP4CPY"
     },
     servers: {
         iceServers: [
